@@ -20,3 +20,9 @@ body {
 .font1 {
   font-family: "Vast Shadow", cursive;
 }
+
+@media screen and (min-width: 768px) {
+  .pol {
+    clip-path: polygon(25% 0%, 100% 0%, 100% 100%, 25% 100%, 0 50%) !important;
+  }
+}

@@ -37,7 +37,7 @@ const AppNavbar = () => {
   return (
     <>
       <div className="backdrop-blur-[8px]  fixed w-full  z-[1000] ">
-        <div className="container  px-4 lg:px-0 mx-auto flex items-center justify-between ">
+        <div className="container  px-4 md:px-0 mx-auto flex items-center justify-between ">
           <div className="flex items-center justify-between w-full md:w-auto">
             <a href="#" className="py-2  text-3xl font1 uppercase">
               Logo
