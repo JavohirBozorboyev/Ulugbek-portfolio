@@ -8,13 +8,13 @@
   margin: 0;
   box-sizing: border-box;
   padding: 0;
+  scroll-behavior: smooth;
 }
 
 body {
   background: #0a192f;
   color: #fff;
   font-family: "Gruppo", sans-serif;
-  /* font-weight: 700; */
 }
 
 .font1 {

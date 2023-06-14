@@ -1,4 +1,5 @@
 import AppNavbar from "./Components/Navbar/AppNavbar";
+import About from "./Components/PageSection/About";
 import HeroHeader from "./Components/PageSection/HeroHeader";
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <>
       <AppNavbar />
       <HeroHeader />
+      <About />
     </>
   );
 }
