@@ -4,9 +4,9 @@ const About = () => {
   return (
     <>
       <div id="about" className="py-20 relative">
-        <div className="container mx-auto px-4 md:px-0">
+        <div className="container pb-8 mx-auto px-4 md:px-0">
           <div>
-            <h1 className="font1 text-2xl border-b py-4"> About me</h1>
+            <h1 className="font1 text-4xl border-b py-4"> About me</h1>
           </div>
         </div>
         <div className="container mx-auto px-4 md:px-0 mt-10 flex flex-col lg:flex-row-reverse md:flex-row md:gap-2">

@@ -8,7 +8,11 @@ const data = [
   },
   {
     name: "Skills",
-    url: "#",
+    url: "skills",
+  },
+  {
+    name: "Statistika",
+    url: "stat",
   },
   {
     name: "Experience",
@@ -18,10 +22,7 @@ const data = [
     name: "Projects",
     url: "#",
   },
-  {
-    name: "Statistika",
-    url: "#",
-  },
+
   {
     name: "Contact",
     url: "#",
